@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nirav0412
 - 👀 I’m interested in app development and web development.
-- 🌱 I’m currently java script and html.
+- 🌱 I’m currently learning java script and html.
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me :- kathrotiyanirav9@gmail.com
 
