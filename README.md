@@ -4,7 +4,7 @@
  
 <div align="left">   
 
-   <img src="https://komarev.com/ghpvc/?username=lalitkumawat1m&&style=flat-square" align="center" /> 
+   <img src="https://komarev.com/ghpvc/?username=nirav0412&&style=flat-square" align="center" /> 
   
 ### [Connect with me 💬](https://bio.link/lalitkumawat)
 </div>  
